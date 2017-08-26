@@ -9,15 +9,15 @@
 - Player can choose to roll 2 dice or hold.
 
 **Rolls:**
-There a 4 conditions
-a) If player rolls 2 ones the player loses all their total points.
-b) If player rolls 1 one the player ends his turn, and doesn't gain any points.
-c) If player rolls the same number in both die, then player has to roll again.
-d) If player rolls 2 different valued die that is not a 1. The their current score is raised. 
+- There a 4 conditions
+1) If player rolls 2 ones the player loses all their total points.
+2) If player rolls 1 one the player ends his turn, and doesn't gain any points.
+3) If player rolls the same number in both die, then player has to roll again.
+4) If player rolls 2 different valued die that is not a 1. The their current score is raised. 
 At this point players may choose 'hold' or roll again to get more points.
 
 **Hold:**
-If the player chooses to hold, all of the points rolled during that turn are added to their total score.
+- If the player chooses to hold, all of the points rolled during that turn are added to their total score.
 
 **Scoring Examples:**
 *Example 1:* 
